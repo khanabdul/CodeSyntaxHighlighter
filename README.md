@@ -4,7 +4,17 @@ Create code Hightlighter for blogs /web
 This Project can be used to show code in the blogs and website as they look in the IDE i.e properly indeted and coloured.
 Run the project to generate the HTML string which can be directly put into BLOG/WEBSITE.
 
-# Example C# code : 
+### Installing
+
+```
+Download/Clone the source code.
+Unzip it and run Directly using VS(2012 or above)
+```
+
+# Output
+
+
+## Example C# code : 
 
 ```
 while (dataReader.Read())
@@ -20,7 +30,7 @@ while (dataReader.Read())
             }
             yield return obj;
  ```           
-  # Beautified  Generated HTML : to be put into BLOG or WEBSITE
+  ## Beautified  Generated HTML : to be put into BLOG or WEBSITE
 ```  
 <div style="color:Black;background-color:White;">
 <pre>
