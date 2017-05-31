@@ -1,0 +1,17 @@
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\CodeSyntaxHighLiter.exe.config
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\CodeSyntaxHighLiter.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\CodeSyntaxHighLiter.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\ColorCode.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\ColorCode.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.csprojResolveAssemblyReference.cache
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.Form1.resources
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.Properties.Resources.resources
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.csproj.GenerateResource.Cache
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.exe
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.pdb
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\CodeSyntaxHighLiter.exe.manifest
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\CodeSyntaxHighLiter.application
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.exe.manifest
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\obj\Debug\CodeSyntaxHighLiter.application
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abdukhan\Documents\Visual Studio 2012\Projects\CodeSyntaxHighLiter\CodeSyntaxHighLiter\bin\Debug\Newtonsoft.Json.xml
